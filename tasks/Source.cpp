@@ -16,17 +16,6 @@ int sum(int* a, int n)
 	return s;
 }
 
-bool IsFileEmpty(std::string& filename)
-{
-	std::ifstream currentFile(filename);
-	if (!currentFile.is_open())
-	{
-		std::cout << "couldn't open the file\n";
-		return false;
-	}
-	return currentFile.peek() == EOF;
-}
-
 int main()
 {
 	//task 1:
