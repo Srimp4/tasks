@@ -52,7 +52,7 @@ int main()
 	// i know how to but i will comment it so it doesn't throw (pun not intentional) off other code;
 	//throw - 1;
 	*/
-	//tasks 1 through 5 are commented above so taht they wouldn't mess with other code 
+	//tasks 1 through 5 are commented above so that they wouldn't mess with other code 
 
 	std::ofstream file;
 	std::string data, line;
