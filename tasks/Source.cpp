@@ -37,7 +37,7 @@ int main()
 	std::cout << s;
 
 	//task 5:
-	// i know how to but i will comment it so it doesn't throw (pun not intentional) off other code;
+	// i know how to but i will comment it so it doesn't throw (he-he) off other code;
 	//throw - 1;
 	
 	std::ofstream file;
